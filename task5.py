@@ -33,3 +33,8 @@ last_player = list_players[-1]
 reestr = {"Первый участник": list_players[0]}
 print("Последний участник:", last_player)
 print("Первый участник:", reestr["Первый участник"])
+
+
+seasons_dict =  {1: 'Зима', 2: 'Весна', 3: 'Лето', 4: 'Осень'}
+
+print(seasons_dict)
